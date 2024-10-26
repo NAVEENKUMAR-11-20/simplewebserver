@@ -101,7 +101,7 @@ httpd.serve_forever()
 '''
 
 ## OUTPUT:
-![alt text](<ex 1 table.png>)
+![alt text](<table 2.png>)
 
 ![alt text](terminal.png)
 
